@@ -4,16 +4,12 @@ A curated list of Numerical Hybrid (Table-Text) Question Answering papers and th
 
 | Year | Title | Venue | Paper | Code |
 | --- | --- |  --- |  --- | --- |
-| 2014 | **Developing Age and Gender Predictive Lexica over Social Media** | EMNLP 2014 | [Link](https://aclanthology.org/D14-1121/) | [Link](https://github.com/jtwool/TwitterGenderPredictor)|
-|2014 | **Estimating County Health Statistics with Twitter** | CHI 2014 | [Link](https://dl.acm.org/doi/abs/10.1145/2556288.2557139) | [Link](https://github.com/tapilab/twcounty) |
-| 2015 | **Twitter User Geolocation Using a Unified Text and Network Prediction Model** | ACL 2015 | [Link](https://aclanthology.org/P15-2104/) | [Link](https://github.com/afshinrahimi/geolocation)|
-| 2016 | **Predicting the demographics of twitter users from website traffic data** | JAIR 2016 | [Link](https://www.jair.org/index.php/jair/article/view/10984) | [Link](https://github.com/tapilab/jair-2016-demographics)|
-| 2017 | **Probabilistic Inference of Twitter Users' Age Based on What They Follow** | ECML/PKDD 2017 | [Link](https://link.springer.com/chapter/10.1007/978-3-319-71273-4_16) | [Link](https://github.com/melifluos/bayesian-age-detection)|
-| 2017 | **Simple Queries as Distant Labels for Predicting Gender on Twitter** | W-NUT 2017 | [Link](https://aclanthology.org/W17-4407/) | [Link](https://github.com/cmry/simple-queries)|
-| 2018 | **Predicting Twitter User Socioeconomic Attributes with Network and Language Information** | ACM HT 2018 | [Link](https://dl.acm.org/doi/abs/10.1145/3209542.3209577) | [Link](https://github.com/melifluos/income-prediction)|
-| 2018 | **Semi-supervised User Geolocation via Graph Convolutional Networks** | ACL 2018 | [Link](https://aclanthology.org/P18-1187/) | [Link](https://github.com/afshinrahimi/geographconv)|
-| 2019 | **Demographic Inference and Representative Population Estimates from Multilingual Social Media Data** | WWW 2019 | [Link](https://dl.acm.org/doi/abs/10.1145/3308558.3313684) | [Link](https://github.com/euagendas/m3inference)|
-| 2019 | **Twitter Homophily: Network Based Prediction of User’s Occupation** | ACL 2019 | [Link](https://aclanthology.org/P19-1252/) | [Link](https://github.com/jqnap/Twitter-Occupation-Prediction)|
-| 2020 | **Identifying social media user demographics and topic diversity with computational social science: a case study of a major international policy forum** | Journal of Computational Social Science | [Link](https://link.springer.com/article/10.1007/s42001-019-00061-9) | [Link](https://github.com/wri/demographic-identifier)|
-| 2021 | **Using Noisy Self-Reports to Predict Twitter User Demographics** | SocialNLP 2021 | [Link](https://aclanthology.org/2021.socialnlp-1.11/) | [Link](https://github.com/paihengxu/Twitter-noisy-self-report)|
-| 2022 | **Twitter-Demographer: A Flow-based Tool to Enrich Twitter Data** | arxiv preprint | [Link](https://arxiv.org/abs/2201.10986) | [Link](https://github.com/MilaNLProc/twitter-demographer)|
+| 2021 | **TAT-QA: A Question Answering Benchmark on a Hybrid of Tabular and Textual Content in Finance** | ACL 2021 | [Link](https://aclanthology.org/2021.acl-long.254/) | [Link](https://github.com/NExTplusplus/TAT-QA)|
+| 2021 | **FinQA: A Dataset of Numerical Reasoning over Financial Data** | EMNLP 2021 | [Link](https://aclanthology.org/2021.emnlp-main.300/) | [Link](https://github.com/czyssrs/finqa)|
+| 2022 | **MultiHiertt: Numerical Reasoning over Multi Hierarchical Tabular and Textual Data** | ACL 2022 | [Link](https://aclanthology.org/2022.acl-long.454/) | [Link](https://github.com/psunlpgroup/MultiHiertt)|
+| 2022 | **Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder** | COLING 2022 | [Link](https://aclanthology.org/2022.coling-1.118/) | [Link](https://github.com/lfy79001/RegHNT)|
+| 2022 | **ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering** | EMNLP 2022 | [Link](https://arxiv.org/abs/2210.03849) | [Link](https://github.com/czyssrs/ConvFinQA)|
+| 2022 | **MuGER: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering** | EMNLP (Findings) 2022 | [Link](https://arxiv.org/abs/2210.10350) | [Link](https://github.com/JD-AI-Research-NLP/MuGER2)|
+| 2022 | **TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data** | EMNLP 2022 | [Link](https://arxiv.org/abs/2205.12682) | [Link](https://github.com/koalazf99/tacube)|
+| 2022 | **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation** | EMNLP 2022 | [Link](https://arxiv.org/abs/2210.08249) | [Link](https://github.com/phddamuge/UniRPG)|
+|2022 | **ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler** | NeurIPS 2022 | [Link](https://arxiv.org/abs/2210.10105) | [Link](https://github.com/NeuraSearch/NeurIPS-2022-Submission-3358) |
