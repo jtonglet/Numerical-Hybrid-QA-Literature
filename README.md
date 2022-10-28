@@ -10,6 +10,7 @@ A curated list of Numerical Hybrid (Table-Text) Question Answering papers and th
 | 2022 | **Answering Numerical Reasoning Questions in Table-Text Hybrid Contents with Graph-based Encoder and Tree-based Decoder** | COLING 2022 | [Link](https://aclanthology.org/2022.coling-1.118/) | [Link](https://github.com/lfy79001/RegHNT)|
 | 2022 | **ConvFinQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering** | EMNLP 2022 | [Link](https://arxiv.org/abs/2210.03849) | [Link](https://github.com/czyssrs/ConvFinQA)|
 | 2022 | **MuGER: Multi-Granularity Evidence Retrieval and Reasoning for Hybrid Question Answering** | EMNLP (Findings) 2022 | [Link](https://arxiv.org/abs/2210.10350) | [Link](https://github.com/JD-AI-Research-NLP/MuGER2)|
+| 2022 | **Reasoning Like Program Executors** | EMNLP 2022 | [Link](https://arxiv.org/abs/2201.11473) | [Link](https://github.com/microsoft/ContextualSP/tree/master/poet)|
 | 2022 | **TaCube: Pre-computing Data Cubes for Answering Numerical-Reasoning Questions over Tabular Data** | EMNLP 2022 | [Link](https://arxiv.org/abs/2205.12682) | [Link](https://github.com/koalazf99/tacube)|
 | 2022 | **Teaching Broad Reasoning Skills via Decomposition-Guided Contexts** | EMNLP 2022 | [Link](https://arxiv.org/abs/2205.12496) | [Link](https://github.com/stonybrooknlp/teabreac)|
 | 2022 | **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation** | EMNLP 2022 | [Link](https://arxiv.org/abs/2210.08249) | [Link](https://github.com/phddamuge/UniRPG)|
