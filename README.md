@@ -1,6 +1,7 @@
 # Numerical Hybrid QA Literature
 
-A curated list of Numerical Hybrid (Table-Text) Question Answering papers and their implementation
+A curated list of Numerical Hybrid (Table-Text) Question Answering papers and their implementation. Feel free to contribute by adding more papers to the list.
+
 
 | Year | Title | Venue | Paper | Code |
 | --- | --- |  --- |  --- | --- |
