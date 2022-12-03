@@ -16,4 +16,5 @@ A curated list of Numerical Hybrid (Table-Text) Question Answering papers and th
 | 2022 | **Teaching Broad Reasoning Skills via Decomposition-Guided Contexts** | EMNLP 2022 | [Link](https://arxiv.org/abs/2205.12496) | [Link](https://github.com/stonybrooknlp/teabreac)|
 | 2022 | **UniRPG: Unified Discrete Reasoning over Table and Text as Program Generation** | EMNLP 2022 | [Link](https://arxiv.org/abs/2210.08249) | [Link](https://github.com/phddamuge/UniRPG)|
 | 2022 | **ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler** | NeurIPS 2022 | [Link](https://arxiv.org/abs/2210.10105) | [Link](https://github.com/NeuraSearch/NeurIPS-2022-Submission-3358) |
+| 2022 | **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks** | arXiv | [Link](https://arxiv.org/abs/2211.12588) | [Link](https://github.com/wenhuchen/Program-of-Thoughts) |
 | 2023 | **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning** | Under Review (2023) | [Link](https://arxiv.org/abs/2209.14610) | [Link](https://tabmwp.github.io/) |
