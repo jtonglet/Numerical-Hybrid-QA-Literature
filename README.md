@@ -21,7 +21,7 @@ A curated list of Numerical Hybrid (Table-Text) Question Answering papers and th
 | 2022 | **ELASTIC: Numerical Reasoning with Adaptive Symbolic Compiler** | NeurIPS 2022 | [Link](https://arxiv.org/abs/2210.10105) | [Link](https://github.com/NeuraSearch/NeurIPS-2022-Submission-3358) |
 | 2022 | **Program of Thoughts Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks** | arXiv | [Link](https://arxiv.org/abs/2211.12588) | [Link](https://github.com/wenhuchen/Program-of-Thoughts) |
 | 2022 | **DyRRen: A Dynamic Retriever-Reranker-Generator Model for Numerical Reasoning over Tabular and Textual Data** |arXiv | [Link](https://arxiv.org/abs/2211.12668) | [Link](https://github.com/nju-websoft/DyRRen) |
-| 2022 | **LUNA: Language Understanding with Number Augmentations on Transformers via Number Plugins and Pre-training** | arXiv | [Link](https://arxiv.org/abs/2212.02691) | - |
+| 2022 | **LUNA: Language Understanding with Number Augmentations on Transformers via Number Plugins and Pre-training** | arXiv | [Link](https://arxiv.org/abs/2212.02691) | [Link](https://github.com/zmy/LUNA) |
 | 2022 | **APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning** | arXiv | [Link](https://arxiv.org/abs/2212.07249) | - |
 | 2022 | **Toward a Unified Framework for Unsupervised Complex Tabular Reasoning** | arXiv | [Link](https://arxiv.org/abs/2212.10097) | [Link](https://github.com/leezythu/UCTR) |
 | 2023 | **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning** | ICLR 2023 | [Link](https://arxiv.org/abs/2209.14610) | [Link](https://github.com/lupantech/PromptPG) |
