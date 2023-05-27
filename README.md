@@ -25,4 +25,4 @@ A curated list of Numerical Hybrid (Table-Text) Question Answering papers and th
 | 2022 | **APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning** | arXiv | [Link](https://arxiv.org/abs/2212.07249) | - |
 | 2022 | **Toward a Unified Framework for Unsupervised Complex Tabular Reasoning** | arXiv | [Link](https://arxiv.org/abs/2212.10097) | [Link](https://github.com/leezythu/UCTR) |
 | 2023 | **Dynamic Prompt Learning via Policy Gradient for Semi-structured Mathematical Reasoning** | ICLR 2023 | [Link](https://arxiv.org/abs/2209.14610) | [Link](https://github.com/lupantech/PromptPG) |
-| 2023 | **https://dl.acm.org/doi/abs/10.1145/3543873.3587598** | WWW'23 Companion | [Link](https://dl.acm.org/doi/abs/10.1145/3543873.3587598) | - |
+| 2023 | **SoarGraph: Numerical Reasoning over Financial Table-Text Data via Semantic-Oriented Hierarchical Graphs** | WWW'23 Companion | [Link](https://dl.acm.org/doi/abs/10.1145/3543873.3587598) | - |
