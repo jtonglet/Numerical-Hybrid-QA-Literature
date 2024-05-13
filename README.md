@@ -29,3 +29,6 @@ A curated list of Numerical Hybrid (Table-Text) Question Answering papers and th
 | 2023 | **HRoT: Hybrid prompt strategy and Retrieval of Thought for Table-Text Hybrid Question Answering** | arXiv | [Link](https://arxiv.org/abs/2309.12669) | - |
 | 2023 | **SEER : A Knapsack approach to Exemplar Selection for In-Context HybridQA** | EMNLP 2023 | [Link](https://arxiv.org/abs/2310.06675) | [Link](https://github.com/jtonglet/SEER) |
 | 2024 | **APOLLO: An Optimized Training Approach for Long-form Numerical Reasoning** | COLING 2024 | [Link](https://arxiv.org/abs/2212.07249) | [Link](https://github.com/GasolSun36/APOLLO) |
+| 2024 | **Improving Financial QA via Enhancing Argument Understanding with an Argument Predictor** | BigComp 2024 | [Link](https://ieeexplore.ieee.org/abstract/document/10488180) | - |
+| 2024 | **KFEX-N : A table-text data question-answering model based on knowledge-fusion encoder and EX-N tree decoder** | Neurocomputing | [Link](https://www.sciencedirect.com/science/article/pii/S0925231224005666) | - |
+| 2024 | **TAT-LLM: A Specialized Language Model for Discrete Reasoning over Tabular and Textual Data** | arXiv | [Link](https://arxiv.org/abs/2401.13223) | [Link](https://huggingface.co/next-tat) |
